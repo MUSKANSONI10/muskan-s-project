@@ -1,2 +1,3 @@
 # muskan-s-project
-this is my very first git repositories
+This is my very first git repositorie
+Author- Muskan Soni
